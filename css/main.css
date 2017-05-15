@@ -52,8 +52,19 @@ header .action h1 {
 	text-transform: uppercase;
 }
 
-
-.action .btn {
-	margin-top: 15px;
-	text-transform: uppercase;
+.action .btn{
+  margin-top: 15px;
+  text-transform: uppercase;
+}
+.servicio{
+  padding: 0 30px;
+}
+.servicio h3{
+  text-transform: uppercase;
+  font-size: 1.2em;
+  letter-spacing: 2px;
+}
+.servicio i{
+  font-size: 6em;
+  margin-bottom: 15px;
 }
